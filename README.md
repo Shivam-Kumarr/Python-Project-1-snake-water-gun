@@ -1,4 +1,4 @@
-# Snake Water Gun Game in Python
+# Python Project-1: Snake Water Gun Game in Python
 
 This is a simple implementation of the classic Snake Water Gun game in Python. You can play against the computer!
 
